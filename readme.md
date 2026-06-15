@@ -54,24 +54,23 @@ The content comprises 225 minutes of instructional modules followed by an additi
 | :--- | :--- | :--- |
 | 10 min | Welcome and Introductions| Session introduction, logistics, and setting expectations. |
 | 45 min | The neon Blueprint - Creating modern Software Stacks| Architectural overview covering the Red Hat Software Factory, AI-supported development, local containerization with Podman Desktop, and the Red Hat Secure Supply Chain. |
-| **60 min** | **Orchestration** | [cite_start]Deep dive into container orchestration concepts and mechanics within the ecosystem[cite: 55]. |
-| **10 min** | *BREAK* | [cite_start]Refreshment break[cite: 56]. |
-| **30 min** | **SQL Databases in a container (1.3)** | [cite_start]Exploring the design, deployment, and management patterns of containerized relational databases[cite: 57]. |
-| **30 min** | **Application Migration Toolkit (1.4)** | [cite_start]Leveraging migration tools to assess and transition legacy workloads to OpenShift[cite: 58]. |
-| **30 min** | **OpenShift Developer Hub (1.5)** | [cite_start]The Portal to Developer Success: Exploring developer portals and pathways to building a standard Software Factory[cite: 59, 60, 61]. |
-| **10 min** | **Introduction to the LAB & Key Takeaways** | [cite_start]Overview of Cloud-Native Architectures within the lab environment, key takeaways, and how to replicate the workshop to gain developer mindshare[cite: 62, 63, 66]. |
-| **120 min** | **LAB Time** | [cite_start]Hands-on practical lab application focusing on cloud-native patterns and deployment strategies[cite: 64, 65, 68]. |
+| 60 min | Orchestration | Deep dive into container orchestration concepts and mechanics within the ecosystem.|
+| 10 min | BREAK |Refreshment break. |
+| 30 min | SQL Databases in a container  | Exploring the design, deployment, and management patterns of containerized relational databases. |
+| 30 min | Application Migration Toolkit | Leveraging migration tools to assess and transition legacy workloads to OpenShift. |
+| 30 min | OpenShift Developer Hub  | The Portal to Developer Success: Exploring developer portals and pathways to building a standard Software Factory. |
+| 10 min | Introduction to the LAB & Key Takeaways | Overview of Cloud-Native Architectures within the lab environment, key takeaways, and how to replicate the workshop to gain developer mindshare. |
+| 120 min | LAB Time | Hands-on practical lab application focusing on cloud-native patterns and deployment strategies. |
 
 ---
 
 ## Post-Workshop Skills Paths & Success Metrics
 
 ### Advanced Learning Paths
-[cite_start]Participants are highly encouraged to build upon this foundational workshop by enrolling in comprehensive Red Hat training courses[cite: 23]:
-* [cite_start]**Developer Skills-path:** `DO188` (3-day Developer Fundamentals) & `DO288` (32 hours of Application Development)[cite: 72].
-* [cite_start]**GitOps:** Fundamentals & Advanced GitOps Courses[cite: 70].
-* [cite_start]**DevSecOps:** Introduction to Red Hat Security and DevSecOps for Pre-Sales / Delivery[cite: 73, 74].
-* [cite_start]**Registry Management:** Installing and Configuring Red Hat Quay Enterprise (`DO0031L` v3.15)[cite: 71].
+Participants are highly encouraged to build upon this foundational workshop by enrolling in comprehensive Red Hat training courses:
++ Developer Skills-path: `DO188` (3-day Developer Fundamentals) & `DO288` (32 hours of Application Development).
++ GitOps: Fundamentals & Advanced GitOps Courses.
++ DevSecOps:Introduction to Red Hat Security and DevSecOps for Pre-Sales / Delivery.
++ Registry Management: Installing and Configuring Red Hat Quay Enterprise (`DO0031L` v3.15).
 
-### Success Tracking (KPIs)
-[cite_start]To measure the workshop's impact, the business monitors a **"Behavior Change" metric**[cite: 24]. [cite_start]This KPI explicitly tracks the percentage of participants who register for advanced certifications or utilize sandbox/hands-on labs within **4 to 12 weeks** of completing this training[cite: 24].
+[cite_start]This KPI explicitly tracks the percentage of participants who register for advanced certifications or utilize sandbox/hands-on labs within **4 to 12 weeks** of completing this training[cite: 24].
