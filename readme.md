@@ -1,18 +1,18 @@
 # Workload on OpenShift - Technical Workshop vILT
 
 ## Overview
-[cite_start]This **6-hour intensive virtual instructor-led training (vILT)** workshop is designed to equip technical sales, pre-sales professionals, and consultants with the skills needed to position **Red Hat OpenShift** as a modern application development platform[cite: 4, 78, 96]. 
+This **6-hour intensive virtual instructor-led training (vILT)** workshop is designed to equip technical sales, pre-sales professionals, and consultants with the skills needed to position **Red Hat OpenShift** as a modern application development platform. 
 
-[cite_start]Moving beyond the traditional perspective of OpenShift as merely an environment for running virtual machines and containers, this training focuses on modernizing legacy workloads and rapidly deploying new software using Red Hat’s integrated ecosystem[cite: 5, 18, 77, 80]. [cite_start]Participants will explore critical topics such as AI integration, SQL databases, and migration toolkits to effectively address customer software development needs, drive revenue, and eliminate "DIY sprawl"[cite: 5, 6, 12, 97].
+Moving beyond the traditional perspective of OpenShift as merely an environment for running virtual machines and containers, this training focuses on modernizing legacy workloads and rapidly deploying new software using Red Hat’s integrated ecosystem. Participants will explore critical topics such as AI integration, SQL databases, and migration toolkits to effectively address customer software development needs, drive revenue, and eliminate "DIY sprawl".
 
 ---
 
 ## Business Purpose & Objectives
 The workshop serves multiple strategic business objectives:
-* [cite_start]**Driving Sales & Revenue:** Promotes the sale of Red Hat tools and strengthens overall OpenShift Container Platform (OCP) revenue by showcasing integrated tools (e.g., Podman Desktop) to build cross-sell and up-sell opportunities[cite: 10, 11, 81].
-* [cite_start]**Empowering Teams:** Acts as a vital enablement tool to build confidence in technical sales and consulting teams, enabling them to conduct upfront technical discoveries, navigate competitive scenarios, and properly qualify pipeline opportunities[cite: 14, 15, 16, 82].
-* [cite_start]**Shifting Perception:** Expands customer and partner perspective of OpenShift by presenting it from a software developer's view, emphasizing Developer Velocity and Software Factory capabilities[cite: 17, 18, 20].
-* [cite_start]**Catalyst for Continuous Learning:** Rather than being a shortcut to certification, this course acts as a motivational stepping stone that inspires participants to pursue deeper knowledge and formal advanced certifications (such as GitOps and DevSecOps)[cite: 8, 21, 22, 83].
++ Driving Sales & Revenue: Promotes the sale of Red Hat tools and strengthens overall OpenShift Container Platform (OCP) revenue by showcasing integrated tools (e.g., Podman Desktop) to build cross-sell and up-sell opportunities.
++ Empowering Teams:** Acts as a vital enablement tool to build confidence in technical sales and consulting teams, enabling them to conduct upfront technical discoveries, navigate competitive scenarios, and properly qualify pipeline opportunitie.
++ Shifting Perception:Expands customer and partner perspective of OpenShift by presenting it from a software developer's view, emphasizing Developer Velocity and Software Factory capabilities.
++ Catalyst for Continuous Learning:** Rather than being a shortcut to certification, this course acts as a motivational stepping stone that inspires participants to pursue deeper knowledge and formal advanced certifications (such as GitOps and DevSecOps).
 
 ---
 
