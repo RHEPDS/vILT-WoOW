@@ -77,4 +77,6 @@ Participants are highly encouraged to build upon this foundational workshop by e
 + DevSecOps:Introduction to Red Hat Security and DevSecOps for Pre-Sales / Delivery.
 + Registry Management: Installing and Configuring Red Hat Quay Enterprise (`DO0031L` v3.15).
 
-[cite_start]This KPI explicitly tracks the percentage of participants who register for advanced certifications or utilize sandbox/hands-on labs within **4 to 12 weeks** of completing this training[cite: 24].
+Feedback Link for this Workshop:
+
+https://training-lms.redhat.com/sso/saml/auth/rhopen?RelayState=deeplinkoffering%3D93227959
