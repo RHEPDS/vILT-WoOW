@@ -66,6 +66,10 @@ The content comprises 225 minutes of instructional modules followed by an additi
 | 10 min | Introduction to the LAB & Key Takeaways | Overview of Cloud-Native Architectures within the lab environment, key takeaways, and how to replicate the workshop to gain developer mindshare. |
 | 120 min | LAB Time | Hands-on practical lab application focusing on cloud-native patterns and deployment strategies. |
 
+
+Link to the LAB: 
++ https://catalog.demo.redhat.com/workshop/qpd2gy
++ Password - OpenShift
 ---
 
 ## Post-Workshop Skills Paths & Success Metrics
