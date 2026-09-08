@@ -68,7 +68,7 @@ The content comprises 225 minutes of instructional modules followed by an additi
 
 
 Link to the LAB: 
-+ https://catalog.demo.redhat.com/workshop/qpd2gy
++ https://catalog.demo.redhat.com/workshop/ppwqu8
 + Password - OpenShift
 ---
 
